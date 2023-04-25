@@ -1,6 +1,6 @@
 # Alex Fraik's "ReadME" File for all projects associated with my postdoctoral fellowships
 
-## Here are all of the directories with my code across all of my projects outside of my PhD work during my postdoc (2021-) at the University of Idaho and at NOAA NMFS
+## Here are all of the directories with my code across all of my projects outside of my PhD work during my postdoc (2021-2023) at the University of Idaho and at NOAA NMFS
 In this directory I have placed all of the files and scripts generated for published works
 
 ## Below are all of different projects I have worked on and the location of the code
